@@ -11,7 +11,7 @@ type ItemProps = {
   size?: "default" | "large";
 };
 
-export default function Item({ 
+export function Item({ 
   className, 
   icon = null, 
   description = "Item description", 
@@ -79,3 +79,4 @@ export default function Item({
   );
 }
 
+export default Item;
