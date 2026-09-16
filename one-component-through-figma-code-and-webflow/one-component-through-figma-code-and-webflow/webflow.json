@@ -1,0 +1,17 @@
+{
+  "library": {
+    "name": "One Component Through Figma, Code, and Webflow",
+    "components": [
+      "./src/**/*.webflow.@(js|jsx|mjs|ts|tsx)"
+    ],
+    "description": "Testing a single component in all 3",
+    "id": "one-component-through-figma-code-and-webflow"
+  },
+  "telemetry": {
+    "global": {
+      "allowTelemetry": true,
+      "lastPrompted": 1765939386734,
+      "version": "1.9.0"
+    }
+  }
+}
